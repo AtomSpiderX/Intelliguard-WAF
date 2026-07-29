@@ -1,0 +1,6 @@
+{
+  "name": "IntelliGuard WAF",
+  "description": "An intelligent Web Application Firewall with real-time attack detection, anomaly analysis, and AI-powered rule generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered threat analysis", "Real-time traffic monitoring", "Advanced attack simulation"]
+}
